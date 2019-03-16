@@ -1,6 +1,6 @@
 # Forthress
 
-This repo is cloned from original github.com/sayon/forthress. It contains results of research activities during completing System Software course work project in 2019.
+This repo is cloned from original https://github.com/sayon/forthress. It contains results of research activities during completing System Software course work project in 2019.
 
 ## Summary
 
