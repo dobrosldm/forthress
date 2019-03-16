@@ -16,4 +16,5 @@ File `stage1.frt` contains all new words:
 * `prime-allot`
 * `concat`
 * `radical`
+
 This file is already included in `start` script.
