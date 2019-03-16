@@ -1,0 +1,1 @@
+cat stage1.frt - | cat stdlib.frt - | ./bin/forthress
